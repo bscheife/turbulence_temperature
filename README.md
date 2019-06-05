@@ -17,6 +17,6 @@ You can follow the basic workflow by going through the files t01_xx.m, t02_xx.m,
 
 ## Acknowledgements
 
-The basic structure of this code and workflow was provided by Barry Ruddick at Dalhousie University. The theory underlying the process is outlined in his paper on Batchelor *Maximum Likelihood Spectral Fitting: The Batchelor Spectrum*.
+The basic structure of this code and workflow was provided by Barry Ruddick at Dalhousie University. The theory underlying the process is outlined in his paper *Maximum Likelihood Spectral Fitting: The Batchelor Spectrum*.
 
 Jeff Carpenter at HZG in Germany iterated on this library before he passed it onto me. I fleshed out much of the code, made it more flexible or efficient, fixed bugs as necessary, and developed the documentation.
