@@ -1,6 +1,6 @@
 # turbulence_temperature
 
-This is the library I developed over the course of my PhD research to derive turbulent dissipation rates (ε and χ) from raw temperature microstructure measurements. There's a lot going on here, but the basic idea is to 
+This is one of the libraries I developed over the course of my PhD research to derive turbulent dissipation rates (ε and χ) from raw temperature microstructure measurements. There's a lot going on here, but the basic idea is to 
 (i)   iteratively take chunks of the high resolution measurements (512 Hz), 
 (ii)  transform them into fourier space, 
 (iii) convert temperature spectra to temperature-gradient spectra
