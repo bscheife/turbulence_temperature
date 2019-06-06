@@ -13,7 +13,9 @@ Check out https://doi.org/10.1029/2017JC013731 for details
 
 ## Getting started
 
-You can follow the basic workflow by going through the files t01_xx.m, t02_xx.m, etc... in order. The main processing script is t03_micT_processing.m, and most of the meat of the calculations happens in the function micT_eps_chi.m.
+The most important file, where most of the actual data processing happens, is in the function micT_eps_chi.m. This is called by its parent script t03_micT_processing.m. 
+
+You can follow the basic workflow from start to finish by going through the files t01_xx.m, t02_xx.m, etc... in order.
 
 ## Acknowledgements
 
